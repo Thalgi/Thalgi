@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Thalgi
+- 👀 I’m currently working in Web Dev and everything around it
+- 🌱 I’m currently learning advanced programming language like .NET and various JS Framework
+- 📫 You can reach me on linkedin with this link :  www.linkedin.com/in/thalgi 
