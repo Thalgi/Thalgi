@@ -1,4 +1,4 @@
 - 👋 Salut je me prénomme Thalgi
-- 👀 Je travaille actuellement en développement Web avec les trechnologies orbitant autour de ceci.
+- 👀 Je travaille actuellement en développement Web avec les technologies orbitant autour de ceci.
 - 🌱 J'apprends actuellement le .NET ainsi que divers Framework de Javascript
 - 📫 Si vous souhaitez me concatez n'hésitez pas a me joindre via Linkedin :  www.linkedin.com/in/thalgi 
