@@ -8,7 +8,7 @@
 
 - 🔭 Je développe en ce moment a l'aide de langage web comme le .NET et le PHP
 - 🌱 J'apprends en ce moment le Javascript ainsi que plusieurs de ses FrameWork
-- 👯 Je cherche une alternance pour valider ma Licence Pro DAWIN (je persévère)
+- 👯 Je suis une Licence Pro DAWIN permettant d'allier formation profesionelle et enseignement accadémique
 - 💬 N'hésitez pas à me contactez si vous avez des questions à me poser 👍
 - ⚡ Passion: J'adore le level-design et faires de maquettes de projets 
 
