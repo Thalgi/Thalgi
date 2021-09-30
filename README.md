@@ -4,11 +4,11 @@
 
 
 
-## 🎓 Je suis actuellement en DUT Informatique à l'université de Bordeaux (2-ème Année)
+## 🎓 Je suis actuellement en Licence Pro Web à l'université de Bordeaux (3-ème Année)
 
 - 🔭 Je développe en ce moment a l'aide de langage web comme le .NET et le PHP
 - 🌱 J'apprends en ce moment le Javascript ainsi que plusieurs de ses FrameWork
-- 👯 Je suis une Licence Pro DAWIN permettant d'allier formation profesionelle et enseignement accadémique
+- 👯 Je suis une Licence Pro DAWIN permettant d'allier formation professionelle et enseignement accadémique
 - 💬 N'hésitez pas à me contactez si vous avez des questions à me poser 👍
 - ⚡ Passion: J'adore le level-design et faires de maquettes de projets 
 
