@@ -10,7 +10,7 @@
 - 🌱 J'apprends en ce moment le Javascript ainsi que plusieurs de ses FrameWork
 - 👯 Je suis une Licence Pro DAWIN permettant d'allier formation professionelle et enseignement accadémique
 - 💬 N'hésitez pas à me contactez si vous avez des questions à me poser 👍
-- ⚡ Passion: J'adore le level-design et faires de maquettes de projets 
+- ⚡ Passion: J'adore le level-design et faire du modélisme 
 
 ## Langages Connus 📀
 
