@@ -4,11 +4,11 @@
 
 
 
-## 🎓 Je suis actuellement en Licence Pro Web à l'université de Bordeaux (3-ème Année)
+## 🎓 Je suis actuellement en aster Ingénieurie Informatique  à l'EPSI de Bordeaux (4-ème Année)
 
 - 🔭 Je développe en ce moment a l'aide de langage web comme le .NET et le PHP
 - 🌱 J'apprends en ce moment le Javascript ainsi que plusieurs de ses FrameWork
-- 👯 Je suis une Licence Pro DAWIN permettant d'allier formation professionelle et enseignement accadémique
+- 👯 Je suis en Master Ingénieurie Informatique permettant d'allier formation professionelle et enseignement accadémique
 - 💬 N'hésitez pas à me contactez si vous avez des questions à me poser 👍
 - ⚡ Passion: J'adore le level-design et faire du modélisme 
 
@@ -32,11 +32,7 @@
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" height="40" style="vertical-align:top; margin:4px">
-
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" alt="Symfony" height="40" style="vertical-align:top; margin:4px">
 
 </p>
 
